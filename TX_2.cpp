@@ -1,4 +1,4 @@
-RX code
+//TX_2 code
 #include <VirtualWire.h>
 #define ledPin 6
 
